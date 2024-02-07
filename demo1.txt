@@ -1,1 +1,2 @@
-demo1 nu 1st line.
+demo1 nu 1st line
+demo1 ni 2nd line.
